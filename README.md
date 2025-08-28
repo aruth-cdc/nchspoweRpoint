@@ -6,4 +6,7 @@
 + Error message still persists on rendering, though files do render correctly - needs resolution
 + Template had to be hand-created for Quarto compatibility
 
+**Examples posted:**
++ rdc-proposals-report.docx - Rendered Word doc with color schemes, formatting etc.
++ rdc-proposals.pdf - Pdf version of PowerPoint slide outputs
 
